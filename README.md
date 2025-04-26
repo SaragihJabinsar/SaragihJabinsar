@@ -4,8 +4,6 @@
 
   <br>
   <br>
-  <br>
-  <br>
   
   <img src="https://count.getloli.com/@SaragihJabinsar?name=SaragihJabinsar&theme=booru-lewd&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=auto">
 </p>
