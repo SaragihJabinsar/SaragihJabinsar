@@ -11,9 +11,10 @@
 
 ---
 
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Jim+Nightshade&size=35&pause=1000&color=17F72A&repeat=false&width=450&height=100&lines=My+Github+Stats" alt="Typing SVG" />
   <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="30">
-
+</p>
 
 | My Github Streak | My Github Stats | My Most Used Languages |
 |---|---|---|
