@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="[img/reaver-ep5spray-gd_dhi-k.gif](https://media.tenor.com/cLwPGk0As8YAAAAi/reaver-ep5spray-gd_dhi-k.gif)" width="100">
+  <img src="https://media.tenor.com/cLwPGk0As8YAAAAi/reaver-ep5spray-gd_dhi-k.gif" width="100">
 </p>
