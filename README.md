@@ -3,4 +3,7 @@
   <img src="https://media.tenor.com/cLwPGk0As8YAAAAi/reaver-ep5spray-gd_dhi-k.gif" width="80">
 </p>
 
-<img src="https://count.getloli.com/@SaragihJabinsar?name=SaragihJabinsar&theme=booru-lewd&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=auto">
+<p align="center>
+  <img src="https://count.getloli.com/@SaragihJabinsar?name=SaragihJabinsar&theme=booru-lewd&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=auto">
+</p>
+
