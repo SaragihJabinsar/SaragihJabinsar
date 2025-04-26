@@ -1,16 +1,13 @@
-## Hi there 👋
+<!-- Background Hitam -->
+<div style="background-color:#0d1117; padding:30px; border-radius:20px; color:white;">
 
-<!--
-**SaragihJabinsar/SaragihJabinsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style='display:flex'>
+  <img src='img/❤️_🩹🫀.jpeg' style='border-radius: 100%; width: 400px; height: 300px;'>
 
-Here are some ideas to get you started:
+<p align="center" style='margin: 20px 0px 0 20px;'>
+<a href="https://git.io/typing-svg" style='display: flex;'><img src="https://readme-typing-svg.herokuapp.com?font=Irish+Grover&size=40&pause=1000&width=450&height=100&lines=Saragih+Jabinsar" alt="Typing SVG" />
+  <img src='img/reaver-ep5spray-gd_dhi-k.gif' style='width: 100px;position: relative;  background-color: ;left: -110px;top: -50px'>
+</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
