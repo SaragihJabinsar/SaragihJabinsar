@@ -9,7 +9,9 @@
 
   ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Jim+Nightshade&size=35&pause=1000&color=17F72A&repeat=false&width=450&height=100&lines=My+Github+Stats" alt="Typing SVG" /><img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="30">
+<img src="https://readme-typing-svg.herokuapp.com?font=Jim+Nightshade&size=35&pause=1000&color=17F72A&repeat=false&width=450&height=100&lines=My+Github+Stats" alt="Typing SVG" />
+<br>
+<img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="30">
 | My Github Streak | My Github Stats | My Most Used Languages |
 |---|---|---|
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SaragihJabinsar&theme=tokyonight&mode=weekly&background=000000C6)](https://github.com/SaragihJabinsar) | [![SaragihJabinsar GitHub stats](https://github-readme-stats.vercel.app/api?username=SaragihJabinsar&show_icons=true&theme=radical)](https://github.com/SaragihJabinsar) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaragihJabinsar&layout=compact&theme=dark)](https://github.com/SaragihJabinsar) |
